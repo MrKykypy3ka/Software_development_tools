@@ -1,5 +1,5 @@
 def main():
-    print('Вывисти на экран свою фамилию')
+    print('mazharov')
     
 if __name__ == '__main__':
 
