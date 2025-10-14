@@ -1,5 +1,6 @@
 def main():
-    print('Вывисти на экран свою фамилию')
+    print('Whis is my surname')
+    print('Kalinin')
     
 if __name__ == '__main__':
 
