@@ -1,0 +1,3 @@
+[submodule "RandomPassword"]
+	path = RandomPassword
+	url = https://github.com/maryjane338/RandomPassword
