@@ -1,5 +1,6 @@
 def main():
-    print('Вывисти на экран свою фамилию')
+    print('Main branch')
+    print('Semenkov')
     
 if __name__ == '__main__':
 
