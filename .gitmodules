@@ -1,0 +1,3 @@
+[submodule "external/app"]
+	path = external/app
+	url = https://github.com/pochemu228/app.git
